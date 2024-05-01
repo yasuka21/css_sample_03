@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+  background-color: gray;
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: white;
+}
+ 
+header {
+    font-family: "Jersey 15", sans-serif;
+    font-size: 50px;
+  padding: 20px;
+  height: 80px;
+}
+ 
+nav {
+  padding: 8px 40px;
+  background-color: black;
+  color: white;
+}
+ 
+main {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+  padding: 40px;
+  height : 400px;
+}
+ 
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color : black;
+  color: white;
+}
